@@ -1,1 +1,1 @@
-This is first test. Here localbranch changes.
+This is first test. The remote branch change kept as it is.
